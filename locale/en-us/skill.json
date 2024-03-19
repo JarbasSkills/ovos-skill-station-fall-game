@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-station-fall-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-station-fall-game",
+  "package_name": "ovos-skill-station-fall-game",
+  "extra_plugins": {
+    "core": [],
+    "PHAL": [],
+    "listener": [],
+    "audio": [],
+    "media": [],
+    "gui": []
+  },
+  "icon": "http://infocom.elsewhere.org/gallery/stationfall/stationfall1.jpg",
+  "images": [],
+  "name": "Station Fall",
+  "description": "What a trotting krip! Since your incredible heroics in Stationfall, where you risked life and limb to save the station Resida, things have hardly changed at all",
+  "examples": [
+    "play station fall",
+    "save game",
+    "exit game"
+  ],
+  "tags": ["game", "adventure", "entertainment"]
+}
